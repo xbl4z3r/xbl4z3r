@@ -4,7 +4,7 @@
   <img align="left" alt="xbl4z3r's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://youtube.com/xbl4z3r">
-  <img align="left" alt="xbl4z3r's Youtbe" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="xbl4z3r's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://open.spotify.com/user/21mjllc64tsfmcqee5zdvzooi">
   <img align="left" alt="xbl4z3r's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/spotify.svg" />
@@ -13,7 +13,7 @@
 <br />
 
 <br />
-I'm a passionate self taught backend developer and gamer in my free time. I love cats and coding and I'm looking forward to expanding my knowledge about computers and programming.<br />
+I'm a passionate self taught backend developer from Romania. I love cats and coding and I'm looking forward to expanding my knowledge about computers and programming. I'm also a big gamer myself so many of my projects are about game related things. This includes a Discord Bot, a Minecraft Client and Launcher and a game that has no been released yet. I also want to get into IOT, AI and AR. Another subject I would love to research on more is Cybersecurity and Quatum Computing. I hope you'll have a blast looking at my open source projects or while using my closed source apps. Whatever it is, it's nice to know you stopped by to check my stuff out!<br />
 
 <br />
 
