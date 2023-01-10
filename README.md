@@ -41,4 +41,4 @@ I'm a passionate self taught backend developer and gamer in my free time. I love
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xbl4z3r&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbl4z3r&hide=TeX&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbl4z3r&hide=TeX&count_private=true&layout=compact&theme=dark)
