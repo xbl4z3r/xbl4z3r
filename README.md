@@ -1,4 +1,4 @@
-### Hi, I'm xbl4z3r! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://komarev.com/ghpvc/?username=xbl4z3rr)
+### Hi, I'm xbl4z3r!
 
 <a href="https://discord.com/users/678559901789978624">
   <img align="left" alt="xbl4z3r's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/discord.svg" />
